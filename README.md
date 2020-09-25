@@ -1,4 +1,4 @@
-# business-website
+# business-website ...work in progress...
 This will be my future business website. At the moment, it is rather an ideas collection of cool website designs and some info.
 
 
